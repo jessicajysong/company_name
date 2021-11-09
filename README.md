@@ -23,5 +23,5 @@ If needed, please install with a following command:
 (3) Names with match score greater than 80 are regarded as a match
 (4) Difference in an order of the words within a name is not penalized
 
-### Methods
+#### Methods
 - Used 'Levenshtein' distance to calculate the match score

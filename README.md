@@ -13,7 +13,7 @@
 If needed, please install with a following command:<br />
     '''pip install (package name to install)'''<br /><br />
      i.e To install the 'cleanco' package, run the following:<br />
-    <code> 'pip install cleanco' <code/>
+    <code> 'pip install cleanco'
 
 ### Assumptions & Methods
 #### Assumptions

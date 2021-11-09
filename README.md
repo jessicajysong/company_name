@@ -15,7 +15,6 @@ If needed, please install with a following command:<br />
      i.e To install the 'cleanco' package, run the following:<br />
     <code> 'pip install cleanco' <code/>
 
-
 ### Assumptions & Methods
 #### Assumptions
 (1) Different companies can use the same word in the name

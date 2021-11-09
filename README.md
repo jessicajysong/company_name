@@ -1,12 +1,20 @@
 # company_name
 
 ### Required Packages
+#### Please make sure the following packages are installed. 
+
 - pandas
 - string
 - cleanco
 - collections
 - fuzzywuzzy
 - matplotlib
+
+If needed, please install with a following command:
+    'pip install (package name to install)' 
+     i.e To install the 'cleanco' package, run the following
+    ' pip install cleanco '
+
 
 ### Assumptions & Methods
 #### Assumptions
@@ -17,4 +25,3 @@
 
 ### Methods
 - Used 'Levenshtein' distance to calculate the match score
-

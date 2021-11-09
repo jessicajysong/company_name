@@ -11,7 +11,7 @@
 - matplotlib
 
 If needed, please install with a following command:<br />
-    <code> 'pip install (package name to install)'<code/><br /><br />
+    '''pip install (package name to install)'''<br /><br />
      i.e To install the 'cleanco' package, run the following:<br />
     <code> 'pip install cleanco' <code/>
 
